@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Tracks</title>
-    <link>https://ourlaska.github.io/categories/</link>
-    <description>Recent content in Categories on Tracks</description>
+    <title>Categories on The Library</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on The Library</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>Information wants to be free [Stewart Brand, 1984]</copyright>
     
-	<atom:link href="https://ourlaska.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

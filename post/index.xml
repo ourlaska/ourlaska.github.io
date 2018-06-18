@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.com/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Ourlaska</title>
+    <link>https://ourlaska.github.io/post/</link>
+    <description>Recent content in Posts on Ourlaska</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jun 2018 05:52:01 +0200</lastBuildDate>
+    <copyright>Information wants to be free [Stewart Brand, 1984]</copyright>
+    <lastBuildDate>Sat, 19 May 2018 01:59:19 +0200</lastBuildDate>
     
-	<atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ourlaska.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello with Hugo</title>
-      <link>http://example.com/post/hello/</link>
-      <pubDate>Sun, 03 Jun 2018 05:52:01 +0200</pubDate>
+      <title>packing and leaving switzerland</title>
+      <link>https://ourlaska.github.io/post/post1/</link>
+      <pubDate>Sat, 19 May 2018 01:59:19 +0200</pubDate>
       
-      <guid>http://example.com/post/hello/</guid>
-      <description>Hello! Anna is the best wife in the world!</description>
+      <guid>https://ourlaska.github.io/post/post1/</guid>
+      <description>Here is when everything started! On May 20th we left Rutschwil, a wonderful village &amp;hellip;</description>
     </item>
     
   </channel>

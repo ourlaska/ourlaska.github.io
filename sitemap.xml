@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ourlaska.github.io/post/post1/</loc>
+    <loc>https://ourlaska.github.io/post/post2/</loc>
     <lastmod>2018-05-19T01:59:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ourlaska.github.io/post/post1/</loc>
+    <lastmod>2018-04-07T11:30:00+02:00</lastmod>
   </url>
   
   <url>

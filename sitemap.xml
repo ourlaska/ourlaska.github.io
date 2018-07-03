@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ourlaska.github.io/post/3_alaskatwilightsurface/</loc>
-    <lastmod>2018-05-21T14:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ourlaska.github.io/post/2_leaving_switzerland/</loc>
     <lastmod>2018-05-20T11:30:00+02:00</lastmod>
   </url>
@@ -24,13 +19,13 @@
   
   <url>
     <loc>https://ourlaska.github.io/</loc>
-    <lastmod>2018-05-21T14:30:00+02:00</lastmod>
+    <lastmod>2018-05-20T11:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ourlaska.github.io/post/</loc>
-    <lastmod>2018-05-21T14:30:00+02:00</lastmod>
+    <lastmod>2018-05-20T11:30:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
